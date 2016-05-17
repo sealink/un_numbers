@@ -1,0 +1,5 @@
+mkdir tmp
+pushd tmp
+wget http://hazcheck.existec.com/media/87935/cvl.zip
+unzip cvl.zip
+popd
